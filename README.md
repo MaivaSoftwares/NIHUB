@@ -1,6 +1,6 @@
 <h1>NITDA IT HUB (NIHUB) Website</h1>
 
- ### [NITDA IT HUB (NIHUB)](https://i3c.futminna.edu.ng/)
+ ### [NITDA IT HUB (NIHUB)](https://nihub.futminna.edu.ng/)
 
 <h2>Description</h2>
 <p> 
@@ -33,7 +33,7 @@ Other features include the awards, latest news and events. In collaboration with
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the Website: <a href="https://i3c.futminna.edu.ng/" target="_blank">I3C</a>
+Launch the Website: <a href="https://nihub.futminna.edu.ng/" target="_blank">NIHUB</a>
  <br/>
 <p>JustDeyLearn Homepage Banner Overview</p>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
