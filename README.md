@@ -3,9 +3,8 @@
  ### [NITDA IT HUB (NIHUB)](https://i3c.futminna.edu.ng/)
 
 <h2>Description</h2>
-<p>The I3C website was  designed due to the International Computing and Communication Conference coming up on March 25th 2024 and it is  a collaborative initiative by the Nigerian Communications Commission (NCC) and the Federal University of Technology Minna. It addresses the theme “Advancements in Digital Frontier: Envisioning Future Computing & Communications Technologies for Sustainable Development” 
+<p> 
 
-The Website was designed to help the I3C with the following features;
 </p>
 <ul>
  
