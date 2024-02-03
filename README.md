@@ -4,19 +4,17 @@
 
 <h2>Description</h2>
 <p> 
-
+As the Web Developer Team Lead at NITDA IT HUB (NIHUB) in Minna, Niger State, I lead a dynamic team focused on transforming ideas into digital excellence. The project was to build a website that showcases three main features of NIHUB;
 </p>
 <ul>
  
 </ul>
 
-- <b>Know about the program and download the abstract template.</b>
-- <b>Submit abstract </b>
-- <b>Register from a range of categories (billing page) through a third party link.</b>
-- <b>Know about important dates of the program</b>
-- <b>Easily get access on how and when the program will be held.</b>
+- <b>The Communities</b>
+- <b>The Services </b>
+- <b>The Trainings</b>
 
-The I3C website employed various technologies to see to its performance
+Other features include the awards, latest news and events. In collaboration with my team, we went ahead to build the first ever website for NIHUB at the Federal University of Technology Minna.
 <br />
 
 
