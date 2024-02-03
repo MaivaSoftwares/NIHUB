@@ -35,20 +35,41 @@ Other features include the awards, latest news and events. In collaboration with
 <p align="center">
 Launch the Website: <a href="https://nihub.futminna.edu.ng/" target="_blank">NIHUB</a>
  <br/>
-<p>JustDeyLearn Homepage Banner Overview</p>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>NIHUB Homepage Banner Overview</p>
+<img src="https://i.imgur.com/YUMidcX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Homepage features and Courses Overview</p><br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>NIHUB Homepage features</p><br/>
+<img src="https://i.imgur.com/D1vKYbl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Courses Overview</p><br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>NIHUB Training Overview</p><br/>
+<img src="https://i.imgur.com/32Xhl5f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-<p>JustDeyLearn Library Overview</p><br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>NIHUB Awards Overview</p><br/>
+<img src="https://i.imgur.com/CY2PXEb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>NIHUB Latest Overview</p><br/>
+<img src="https://i.imgur.com/rgPdFJ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>NIHUB Officials Overview</p><br/>
+<img src="https://i.imgur.com/Nwr3KgC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>NIHUB Subcribe Action</p><br/>
+<img src="https://i.imgur.com/o2r90h2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<p>NIHUB Footer Overview</p><br/>
+<img src="https://i.imgur.com/xOMh7T1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br 
+<p>NIHUB Contact form</p><br/>
+<img src="https://i.imgur.com/WX544wv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 
 <!--
